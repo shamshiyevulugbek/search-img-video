@@ -4,7 +4,7 @@ import requests
 
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '5244342644:AAFYD0tZLX_mpH9vwFdwREqBTB30Q6b_wS0'
+API_TOKEN = '5129787024:AAE4tIW9jPqytF0H1HK7xR8UoKb8wOomUnY'
 url_img = "https://pixabay.com/api/"
 url_video ="https://pixabay.com/api/videos/"
 api_key = "26235096-f05bfbebacf7a814c40534664"
